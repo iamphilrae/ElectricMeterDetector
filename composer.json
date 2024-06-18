@@ -1,6 +1,8 @@
 {
     "require": {
         "php": "^8.2",
+        "ext-curl": "*",
+        "ext-pdo": "*",
         "guzzlehttp/guzzle": "^7.8",
         "larapack/dd": "^1.1",
         "monolog/monolog": "^3.6",
